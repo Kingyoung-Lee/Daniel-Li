@@ -39,8 +39,8 @@ function TimelineNode({
   isLast: boolean;
   index: number;
 }) {
-  const Icon = ICON_MAP[item.type];
-  const colors = COLOR_MAP[item.type];
+  const Icon = ICON_MAP[item.type!];
+  const colors = COLOR_MAP[item.type!];
 
   const labelColor =
     item.type === "experience"
