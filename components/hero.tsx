@@ -130,7 +130,7 @@ export function Hero() {
                 alt="Nelson Tian"
                 fill
                 className="object-cover"
-                style={{ objectPosition: "center 65%" }}
+                style={{ objectPosition: "center 72%" }}
                 priority
               />
             </div>
