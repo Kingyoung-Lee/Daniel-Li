@@ -129,7 +129,8 @@ export function Hero() {
                 src="/pics/portrait.png"
                 alt="Nelson Tian"
                 fill
-                className="object-cover object-center"
+                className="object-cover"
+                style={{ objectPosition: "center 65%" }}
                 priority
               />
             </div>
