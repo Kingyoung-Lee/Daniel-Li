@@ -16,14 +16,14 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nelson Tian — AI Perception Researcher",
+  title: "李金岩 — 数据分析师 & 策略运营",
   description:
-    "Personal portfolio of Nelson Tian, AI Perception Researcher and Open-Source Developer. " +
-    "Focused on 3D Computer Vision, Embodied AI, and Autonomous Navigation.",
+    "李金岩的个人主页，数据分析师与策略运营。" +
+    "在字节跳动、小红书等头部互联网公司积累了丰富的电商策略运营与数据分析经验。",
   openGraph: {
-    title: "Nelson Tian — AI Perception Researcher",
+    title: "李金岩 — 数据分析师 & 策略运营",
     description:
-      "Building perception systems that see, understand, and act in the physical world.",
+      "热衷于用数据驱动业务决策，专注电商策略运营与商业智能。",
     type: "website",
   },
 };
@@ -35,7 +35,7 @@ export default function RootLayout({
 }) {
   return (
     <html
-      lang="en"
+      lang="zh"
       suppressHydrationWarning
       className={`${inter.variable} ${jetbrainsMono.variable}`}
     >

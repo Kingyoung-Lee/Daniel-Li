@@ -28,7 +28,7 @@ export function Nav() {
           href="/"
           className="font-mono text-sm text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors tracking-tight"
         >
-          nelson.tian
+          Daniel.Lee
         </Link>
 
         {/* Desktop links */}
