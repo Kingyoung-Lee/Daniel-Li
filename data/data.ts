@@ -153,7 +153,7 @@ export const i18n = {
       email: "a911681767@163.com",
       github: "https://github.com/",
       resume: "/resume_daniel.pdf",
-      tagline: "数据分析师 & 策略运营",
+      tagline: "产品运营 & 策略运营",
       summary: "热衷于用数据驱动业务决策。在字节跳动、小红书及跨境电商领域积累了丰富的策略运营与数据分析经验。擅长 SQL、Python 及 BI 看板工具，推动 GMV 增长与用户体验优化。",
       keywords: ["电商策略运营", "数据分析", "商业智能"],
     },
