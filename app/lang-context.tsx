@@ -17,7 +17,7 @@ const LangContext = createContext<LangContextValue>({
 });
 
 export function LangProvider({ children }: { children: React.ReactNode }) {
-  const [lang, setLang] = useState<Lang>("en");
+  const [lang, setLang] = useState<Lang>("zh");
   return (
     <LangContext.Provider value={{ lang, setLang, t: i18n[lang] }}>
       {children}

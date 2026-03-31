@@ -48,7 +48,7 @@ export const i18n = {
       name: "Li Jinyan",
       nameShort: "LJY",
       email: "a911681767@163.com",
-      github: "https://github.com/",
+      github: "https://github.com/Kingyoung-Lee",
       resume: "/resume_daniel.pdf",
       tagline: "Data Analyst & Strategy Operations",
       summary: "Passionate about turning data into business decisions. Experienced in e-commerce strategy operations and data analytics across ByteDance, Xiaohongshu, and cross-border e-commerce. Skilled in SQL, Python, and BI tooling — driving measurable GMV and user experience improvements.",

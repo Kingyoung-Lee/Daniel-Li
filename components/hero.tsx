@@ -127,10 +127,10 @@ export function Hero() {
             <div className="relative w-full h-full rounded-full overflow-hidden border-2 border-white dark:border-zinc-900 shadow-xl shadow-zinc-900/10 dark:shadow-black/40">
               <Image
                 src="/pics/portrait.jpg"
-                alt="Nelson Tian"
+                alt="Li Jinyan"
                 fill
                 className="object-cover"
-                style={{ objectPosition: "center 72%" }}
+                style={{ objectPosition: "center top" }}
                 priority
               />
             </div>
